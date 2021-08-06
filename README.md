@@ -1,5 +1,9 @@
 # AsPeng
-Ini perihal aspeng
+Find period of variable star with uneven observation time interval.
+
+Here's the result
+
+Here's the result with uncertainties
 
 # LICENSE/Lisensi
 *This work is marked with CC0 1.0. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0*
