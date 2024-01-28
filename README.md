@@ -2,7 +2,7 @@
 Find period of variable star with uneven observation time interval.
 
 Here's the result
-![image](LightCurve-No-Uncertaintiy.png)
+![image](LightCurve-No-Uncertainty.png)
 
 Here's the result with uncertainty, assuiming the uncertainty in mag is 0.01
 ![image](LightCurveOfDTVir.png)
